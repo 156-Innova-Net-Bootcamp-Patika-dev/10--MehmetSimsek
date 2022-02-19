@@ -1,0 +1,7 @@
+.Net 6 ile .Net core projesi geliştirildi.
+Microsoft Entity Framework ile veritabanı bağlantıları kuruldu.
+Mapping işlemleri için AutoMapper kullanıldı.
+Validasyon işlemleri için FluentValidation kullanıldı.
+oluşturulan entityler SQLServer veri tabanına kaydedildi.
+CQRS Design pattern kullanıldı.
+Command ve Query modelleri için MediatR kullanıldı
