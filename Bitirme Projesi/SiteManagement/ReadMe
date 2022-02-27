@@ -4,3 +4,5 @@ CQRS
 .NETCore 6
 Entity Framework 6
 Mongo Db 
+RabbitMq
+Teknolojileri kullanılarak bitirme projesi olan site yönetimi projesi geliştirildi
